@@ -11,7 +11,7 @@ export default function ProblemSection() {
           z-index: 5; /* sit above hero */
           margin-top: -680px; /* pull up over hero to cover mockup */
        
-        //  box-shadow: 0 -10px 40px rgba(0,0,0,0.25);
+     
           width: 100vw;
           background: #f7f7f7;
           color: #111;
