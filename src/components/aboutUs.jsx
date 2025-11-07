@@ -74,10 +74,7 @@ export default function AboutUs() {
               <span className="orange">Thank Pay</span>
               <span className="white"></span>
             </div>
-            <p>
-              Over 1,200+ verified users trust us for their digital cheque
-              experience.
-            </p>
+          
             <div className="socials">
               {/* Facebook */}
               <div className="sbtn facebook" aria-label="Facebook">

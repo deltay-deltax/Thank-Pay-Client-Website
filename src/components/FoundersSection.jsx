@@ -13,7 +13,7 @@ export default function FoundersSection() {
       email: "ksraghuco@gmail.com",
     },
     {
-      name: "Ms Likitha Bai",
+      name: "Ms M Likitha Bai",
       role: "Co-Founder",
       badge: "CO-FOUNDER",
       image: coFounderImg,
